@@ -1,0 +1,52 @@
+{
+	"catalogs": [
+		{
+			"id": 12,
+			"url": "#",
+			"title": "Ніжна свіжість:",
+			"text": "троянди та лілії",
+			"image": "https://i.ibb.co/qk3WZzd/bouquet-cart1.png",
+			"price": "445 грн"
+		},
+		{
+			"id": 13,
+			"url": "#",
+			"title": "Сорбет:",
+			"text": "хризантеми та троянди",
+			"image": "https://i.ibb.co/kSqMtYg/bouquet-cart2.png",
+			"price": "450 грн"
+		},
+		{
+			"id": 14,
+			"url": "#",
+			"title": "Yellow Song:",
+			"text": "соняшники та солідаго",
+			"image": "https://i.ibb.co/P9mTcQT/bouquet-cart3.png",
+			"price": "455 грн"
+		},
+		{
+			"id": 15,
+			"url": "#",
+			"title": "Персиковий нектар:",
+			"text": "лілії та троянди",
+			"image": "https://i.ibb.co/M8NL0gT/bouquet-cart4.png",
+			"price": "455 грн"
+		},
+		{
+			"id": 16,
+			"url": "#",
+			"title": "Аврора:",
+			"text": "лілії та троянди",
+			"image": "https://i.ibb.co/LYMJ9mc/bouquet-cart5.png",
+			"price": "460 грн"
+		},
+		{
+			"id": 17,
+			"url": "#",
+			"title": "Класика кохання:",
+			"text": "червоних троянд",
+			"image": "https://i.ibb.co/Y7jdbq5/bouquet-cart6.png",
+			"price": "465 грн"
+		}
+	]
+}
